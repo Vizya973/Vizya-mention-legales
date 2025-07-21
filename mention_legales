@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <meta charset="UTF-8">
+      <style>
+         body { 
+           font-family: sans-serif;
+           padding: 20px;
+           line-height: 1.5;
+              }
+            </style> 
+          </head>
+          <body>
+           <h2>Mentions Légales</h2> 
+           <p>
+             Voici les mentions légales de l’application   Vizya. 
+            Les données saisies restent confidentielles et ne sont jamais transmises. 
+            En validant, tu acceptes notre politique de confidentialité.
+           </p>
+           <p> 
+             Cette application ne collecte aucune donnée personnelle à des fins commerciales. 
+          </p>
+          <p>
+        Mentions légales & politique de confidentialité – Vizya
+        </p>
+        <p>
+          Éditeur de l’application
+         </p>
+         <p>
+           Vizya est une application personnelle, conçue et développée à titre indépendant.
+Elle ne collecte aucune donnée personnelle sensible à des fins commerciales ou publicitaires.
+          </p>
+          <p>
+            Données stockées
+          </p>
+          <p>
+            Les informations que tu ajoutes dans Vizya (visualisations, messages, heures de notification, etc.) sont enregistrées uniquement sur la base de données intégrée à l’application (Thunkable).
+Ces données sont accessibles seulement par toi, via ton propre appareil.
+          </p>
+          <p>
+            Confidentialité
+          </p>
+           <p> 
+             Vizya ne partage ni ne revend aucune information.
+Aucune connexion à des services externes (publicités, réseaux sociaux, géolocalisation) n’est utilisée.
+           </p>
+           <p>
+             Consentement
+           </p>
+           <p>
+              En utilisant Vizya, tu acceptes que les visualisations que tu crées soient stockées localement, dans le but de t’offrir un espace personnel d’alignement et de développement intérieur.
+Aucun traitement externe n’est réalisé.
+           </p>
+           <p>
+             Contact
+           </p>
+           <p>
+             Pour toute question ou demande liée à l’application, tu peux me contacter par mail : vizya.app@gmail.com
+           </p>
+    </body>
+ </html>
